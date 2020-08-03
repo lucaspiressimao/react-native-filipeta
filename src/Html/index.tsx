@@ -1,4 +1,3 @@
-
 export function getHtml() {
   return `
   <div style="width: 384px;height: 500px; border: 1px solid #666">
@@ -27,5 +26,5 @@ export function getHtml() {
     <p>CNPJ: 32.579.520/0001-97</p>
     <p>CNPJ: 32.579.520/0001-97</p>
   </div>
-  `
+  `;
 }
